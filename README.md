@@ -1,3 +1,6 @@
+This repository focused on analyzing COVID-19 data.
+The notebook explores, processes, and visualizes COVID-19 datasets to extract insights and trends.
+
 The following project focuses on;
 Data cleaning and preprocessing of COVID-19 dataset(s).
 Exploratory data analysis (EDA) with plots and summaries.
